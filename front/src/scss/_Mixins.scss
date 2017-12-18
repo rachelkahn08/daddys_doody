@@ -1,0 +1,6 @@
+@mixin loader($n) {
+	figure:nth-child($n) {
+		transform: translate(-50%) rotate(($n * -20)deg);
+		animation-delay: (0.15 * $n);
+	}
+}

@@ -1,0 +1,13 @@
+@import "reset";
+@import "variables";
+@import "keyframes";
+@import "mixins";
+@import "header";
+@import "main";
+@import "footer";
+
+
+body, html {
+	height: 100%;
+	width: 100%;
+}

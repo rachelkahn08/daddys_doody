@@ -1,0 +1,22 @@
+{
+  "name": "daddys_doody_back",
+  "version": "1.0.0",
+  "description": "Database and back-end functions for daddy's doody app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"testy testy\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelkahn08/daddys_doody.git"
+  },
+  "author": "Rachel Kahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rachelkahn08/daddys_doody/issues"
+  },
+  "homepage": "https://github.com/rachelkahn08/daddys_doody#readme",
+  "dependencies": {
+    "mongoose-geojson-schema": "^2.1.2"
+  }
+}
